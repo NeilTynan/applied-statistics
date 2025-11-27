@@ -24,8 +24,8 @@ To understand how the workbook has developped to date, please see below a timeli
 - 27/10 - Started work on problem 2. Outlined the problem and focussed on trying to generate the sample data Coursework referenced included:
 - 04/11 - Briefly continued work on problem 2. Attempted to complete
 - 24/11 - Continued work on problem 2, referencing more external material. Completed work on computing the standard deviation and started the problem analysis. External materials referenced included. https://tidystat.com/how-to-calculate-standard-deviation-in-python-numpy/ (How to plot the standard deviation in Python)
-- 26/11 - Fined up analysis of problem 2. Finsihed up the analysis and added in some additional text and formatting to improve readability. External materials referenced.https://www.statology.org/population-vs-sample-standard-deviation/ (Population SD vs Sample SD)
-
+- 26/11 - Finished up analysis of problem 2. Finsihed up the analysis and added in some additional text and formatting to improve readability. External materials referenced.https://www.statology.org/population-vs-sample-standard-deviation/ (Population SD vs Sample SD)
+- 27/11 - In order to justify the conclusion to problem 2, went back and added a section where the anaysis was tested with a second histogram.
 
 ## Getting help
 
