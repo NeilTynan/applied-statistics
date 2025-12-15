@@ -26,6 +26,9 @@ To understand how the workbook has developped to date, please see below a timeli
 - 24/11 - Continued work on problem 2, referencing more external material. Completed work on computing the standard deviation and started the problem analysis. External materials referenced included. https://tidystat.com/how-to-calculate-standard-deviation-in-python-numpy/ (How to plot the standard deviation in Python)
 - 26/11 - Finished up analysis of problem 2. Finsihed up the analysis and added in some additional text and formatting to improve readability. External materials referenced.https://www.statology.org/population-vs-sample-standard-deviation/ (Population SD vs Sample SD)
 - 27/11 - In order to justify the conclusion to problem 2, went back and added a section where the anaysis was tested with a second histogram.
+- 08/12 - Started work on problem 3. Generated the samples data for graphing, in line with the problem description. External material referenced includes: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html (how to preform an independent t-test).
+- 09/12 - Continued work on problem 3, adding in the graph and some more expalantory text.
+- 15/12 - Completed the final part of problem 3, explaining the changes in the type 2 error rate. Added in more explanatory text and annotations to problem 3 and also adjusted some of the formating in the notebook to make it more readable. External material referenced included: https://www.simplypsychology.org/type_i_and_type_ii_errors.html (what are type 1 and type 2 errors), https://www.statisticalaid.com/type-i-and-type-ii-errors/ (impact of the effect size on type 2 error rate).
 
 ## Getting help
 
